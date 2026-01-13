@@ -1,0 +1,10 @@
+{
+  "SolutionId": "82728f8a-2820-4d09-8999-a19af7f585f7",
+  "Projects": [
+    {
+      "Id": "26bacf8e-3748-4595-8f8e-3334d80a9f44",
+      "Type": "ProcessOrchestration",
+      "ProjectRelativePath": "Business process/project.uiproj"
+    }
+  ]
+}
