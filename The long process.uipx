@@ -5,6 +5,11 @@
       "Id": "26bacf8e-3748-4595-8f8e-3334d80a9f44",
       "Type": "ProcessOrchestration",
       "ProjectRelativePath": "Business process/project.uiproj"
+    },
+    {
+      "Id": "1281728e-7210-447f-b4e1-e70c78355f4e",
+      "Type": "Agent",
+      "ProjectRelativePath": "WeatherAgent/project.uiproj"
     }
   ]
 }
